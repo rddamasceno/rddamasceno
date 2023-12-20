@@ -33,11 +33,8 @@
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rddamasceno&theme=radical" alt="GitHub Trophies" />
   <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rddamasceno&theme=radical&utcOffset=-3" alt="Productive Time" />
 </div>
-
-
-
+<br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=rddamasceno)
-</p> 
-
 
