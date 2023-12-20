@@ -19,10 +19,35 @@
 <h2 align="left">🖥 Tech Skills</h2>
 
 <p align="left">  
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/>
- <a href="https://www.qlik.com/pt-br/products/qlik-sense" target="_blank" rel="noreferrer"> <img src="https://lh3.googleusercontent.com/f-haadBc_54dfaC4jfLRRNo9RNdVYQp3NxKIFuplYC4KXyxZ0bQEQLrivjkUpwTlGqnNQRukxCqDg6vtPkL5jA=w80-h80" alt="qlik" width="40" height="40"/> 
- <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/> 
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+alt="python" width="40" height="40"/> </a> 
+ <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" 
+alt="r" width="40" height="40"/> </a> 
+ <a href="https://aws.amazon.com/pt/what-is/sql/" target="_blank" rel="noreferrer"> 
+         <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" 
+alt="sql" width="40" height="40"/> 
+ <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"
+alt="powerbi" width="40" height="40"/>
+ <a href="https://www.qlik.com/pt-br/products/qlik-sense" target="_blank" rel="noreferrer"> 
+         <img src="https://lh3.googleusercontent.com/f-haadBc_54dfaC4jfLRRNo9RNdVYQp3NxKIFuplYC4KXyxZ0bQEQLrivjkUpwTlGqnNQRukxCqDg6vtPkL5jA=w80-h80" alt="qlik" width="40" height="40"/> 
+ <a href="https://www.gooddata.com/brand-guidelines/" target="_blank" rel="noreferrer"> 
+         <img src="https://yt3.googleusercontent.com/TdCtE2ltRmxhzgSWH5Q4gx-C0JAxE1Bw2hbn9oLr85vqQgKM4KF7IkWTxRheFH0XC0Z13z7o=s176-c-k-c0x00ffffff-no-rj" alt="gooddata" width="40" height="40"/> 
+ <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+        <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" 
+alt="excel" width="40" height="40"/> 
+ <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/448266/aws.svg" 
+alt="aws" width="40" height="40"/> 
+<a href="https://github.com/logos" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" 
+alt="github" width="40" height="40"/> </a> 
+<a href="https://pt.wikipedia.org/wiki/Projeto_Jupyter" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" 
+alt="jupiter" width="40" height="40"/> </a> 
+
 </a> 
   
 <h2 align="left">📉 Minhas Estatísticas:</h2>
