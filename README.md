@@ -14,7 +14,7 @@
  -  ♟️  Sou colecionador de moedas, selos e jogos de tabuleiro.
  - 🏕️ Curto fazer trekking, acampamentos e bivaques.
  - 🔭 Sempre fui apaixonado por astronomia, já ganhei uma medalha de prata na Olimpíada Brasileira de Astronomia e Astronáutica (OBA) em 2014.
- - 🎥 Meus diretores de cinema favoritos são Paul Thomas Anderson, Tarantino, Scorsese, Nolan, Fellini, Wes Anderson e os Irmãos Coen...
+ - 🎥 Meus diretores de cinema favoritos são Paul Thomas Anderson, Tarantino, Scorsese, Nolan, Wes Anderson e os Irmãos Coen...
 
 <h2 align="left">🖥 Tech Skills</h2>
 
