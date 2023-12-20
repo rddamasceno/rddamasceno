@@ -4,8 +4,8 @@
 
  - 👨‍🎓 Sou formado em Big Data e Inteligência Artificial pela PUCGO. Tenho duas pós-graduações, uma em Análise de Dados pela Descomplica, e outra em Gestão Empresarial pela Fiep.
  - 👨‍💻 Migrei para a área de TI em 2021. Possuo experiência com suporte de infraestrutura de TI há mais de dois anos
- - 📊 Fui gestor de TI, em que trabalhei com análise de dados (sobretudo com PowerBI e Excel)
- - 🔭 Atualmente estou focado nas áreas de Análise e Ciência de Dados
+ - 📊 Participei de implatançºoes da cultura data driven nas empresas que trabalhei, implatançºao do datalake e estruturaçºao da
+ - 🔭 Analytics Engineer é a área na qual estou focado atualmente, que é um misto de análise e engenharia de dados.
 
 <h2 align="left">🤠 Curiosidades:</h2>
 
