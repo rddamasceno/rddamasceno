@@ -37,3 +37,7 @@
  <a href="https://medium.com/@henriquewfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@henriquewfranco" height="30" width="40" /></a>
  </p>
 </div> 
+
+
+![](https://komarev.com/ghpvc/?username=rddamasceno)
+
