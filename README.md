@@ -2,16 +2,16 @@
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
- - 👨‍💻 Minha abordagem é orientada por dados, visando sempre impulsionar os negócios e ideias com inovação e responsabilidade.
+ - 🎯 Minha abordagem é orientada por dados, visando sempre impulsionar os negócios e ideias com inovação e responsabilidade.
  - 👨‍🎓 Sou formado em Big Data e Inteligência Artificial pela PUCGO. Tenho duas pós-graduações, uma em Análise de Dados pela Descomplica, e outra em Gestão Empresarial pela Fiep.
- - 📊 Participei de implantações da cultura data driven nas empresas que trabalhei, levantamento de requisitos, orçamento, alinhamento com os clientes, etc.
- - 📃 Tenho certificações PL-300, AI-900, Oracle AI, Oracle Cloud, Yellow Belt, Astronomer, Scrum, Business Intelligence, entre outras.
+ - 📊 Participei de implantações da cultura data driven nas empresas que trabalhei, estando envolvido em todas as etapas dos projetos de BI, incluindo levantamento de requisitos, orçamento, alinhamento com os clientes, etc.
+ - 📃 Tenho as certificações PL-300, AI-900, Oracle AI, Oracle Cloud, Yellow Belt, Astronomer, Scrum, Business Intelligence, entre outras.
  - 🛤️ Analytics Engineer é a área na qual estou focado atualmente, que é um misto de análise e engenharia de dados.
 
 <h2 align="left">🤠 Curiosidades:</h2>
 
  - 🤘 Gosto de acompanhar batalhas de rimas, sou um amante do freestyle Br.
- - 👨‍💻 Sou colecionador de moedas, selos e canivetes.
+ -  ♟️  Sou colecionador de moedas, selos e jogos de tabuleiro.
  - 🏕️ Curto fazer trekking, acampamentos e bivaques.
  - 🔭 Sempre fui apaixonado por astronomia, já ganhei uma medalha de prata na Olimpíada Brasileira de Astronomia e Astronáutica (OBA) em 2014.
  - 🎥 Meus diretores de cinema favoritos são Paul Thomas Anderson, Tarantino, Scorsese, Nolan, Fellini, Wes Anderson e os Irmãos Coen...
