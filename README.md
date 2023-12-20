@@ -10,7 +10,7 @@
 <h2 align="left">🤠 Curiosidades:</h2>
 
  - 🤘 Gosto de acompanhar batalhas de rimas, sou um amante do freestyle Br.
- - 👨‍💻 Coleciono moedas, selos e canivetes
+ - 👨‍💻 Sou colecionador de moedas, selos e canivetes.
  - 🏕️ Curto fazer trekking, acampamentos e bivaques.
  - 🔭 Sempre fui apaixonado por astronomia, já ganhei uma medalha de prata na Olimpíada Brasileira de Astronomia e Astronáutica (OBA) em 2014.
  - 🎥 Meus diretores de cinema favoritos são Paul Thomas Anderson, Quentin Tarantino, Martin Scorsese e os Irmãos Coen...
