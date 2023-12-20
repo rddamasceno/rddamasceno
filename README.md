@@ -14,7 +14,7 @@
  - 👨‍💻 Sou colecionador de moedas, selos e canivetes.
  - 🏕️ Curto fazer trekking, acampamentos e bivaques.
  - 🔭 Sempre fui apaixonado por astronomia, já ganhei uma medalha de prata na Olimpíada Brasileira de Astronomia e Astronáutica (OBA) em 2014.
- - 🎥 Meus diretores de cinema favoritos são Paul Thomas Anderson, Quentin Tarantino, Martin Scorsese e os Irmãos Coen...
+ - 🎥 Meus diretores de cinema favoritos são Paul Thomas Anderson, Tarantino, Scorsese, Nolan, Fellini, Wes Anderson e os Irmãos Coen...
 
 <h2 align="left">🖥 Tech Skills</h2>
 
@@ -23,7 +23,6 @@
  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/>
  <a href="https://www.qlik.com/pt-br/products/qlik-sense" target="_blank" rel="noreferrer"> <img src="https://lh3.googleusercontent.com/f-haadBc_54dfaC4jfLRRNo9RNdVYQp3NxKIFuplYC4KXyxZ0bQEQLrivjkUpwTlGqnNQRukxCqDg6vtPkL5jA=w80-h80" alt="qlik" width="40" height="40"/> 
  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/> 
- <a href="https://aws.amazon.com/pt/what-is/sql/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-internet-icon%2Fsql&psig=AOvVaw1JVFhP4KiGzRbfsOdpN-1e&ust=1703191030520000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDip5fvnoMDFQAAAAAdAAAAABAT" alt="sql" width="40" height="40"/> 
 </a> 
 
 ![](https://komarev.com/ghpvc/?username=rddamasceno)
