@@ -10,6 +10,16 @@
 
 <h2 align="left">🖥 Tech Skills</h2>
 
+<h2 align="left">🗨 Curiosidades:</h2>
+
+ - 🤘 Gosto de acompanhar batalhas de rimas, sou um amante do freestyle Br.
+ - 👨‍💻 Coleciono moedas, selos e canivetes
+ - 🏕️ Curto fazer trekking, acampamentos e bivaques
+ - 🔭 Sempre fui apaixonado por astronomia, já ganhei uma medalha de prata na Olimpíada Brasileira de Astronomia e Astronáutica (OBA) em 2014.
+ - 🎥 Meus diretores de cinema favoritos são Paul Thomas Anderson, Quentin Tarantino, Martin Scorsese e os Irmãos Coen...
+
+<h2 align="left">🖥 Tech Skills</h2>
+
 <p align="left">  
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
