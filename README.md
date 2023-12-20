@@ -1,9 +1,9 @@
-<h1 align="center">Olá! 👋 Prazer, sou o Henrique!</h1>
+<h1 align="center">Olá! 👋 Prazer, sou o Rodrigo!</h1>
 <h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
- - 👨‍🎓 Sou formado em Ciências Biológicas pela PUCPR. Recebi o Prêmio Marcelino Champagnat de melhor desempenho acadêmico
+ - 👨‍🎓 Sou formado em Big Data e Inteligência Artificial pela PUCGO. Tenho duas pós-graduações, uma em Análise de Dados pela Descomplica, e outra em Gestão Empresarial pela Fiep.
  - 👨‍💻 Migrei para a área de TI em 2021. Possuo experiência com suporte de infraestrutura de TI há mais de dois anos
  - 📊 Fui gestor de TI, em que trabalhei com análise de dados (sobretudo com PowerBI e Excel)
  - 🔭 Atualmente estou focado nas áreas de Análise e Ciência de Dados
