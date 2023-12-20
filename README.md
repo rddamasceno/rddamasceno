@@ -1,4 +1,5 @@
 <h1 align="center">Olá! 👋 Prazer, sou o Rodrigo!</h1>
+![](https://komarev.com/ghpvc/?username=rddamasceno)
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
@@ -26,19 +27,4 @@
  <a href="https://aws.amazon.com/pt/what-is/sql/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-internet-icon%2Fsql&psig=AOvVaw1JVFhP4KiGzRbfsOdpN-1e&ust=1703191030520000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDip5fvnoMDFQAAAAAdAAAAABAT" alt="sql" width="40" height="40"/> 
 </a> 
 
-   </p> 
-    
-<h2 align="left">🌐 Redes</h2>
-<div style="display: inline_block">
- <p align="left">
- <a href="https://linkedin.com/in/henriquewfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henriquewfranco" height="30" width="40" /></a>
- <a href="https://kaggle.com/henriquewfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="henriquewfranco" height="30" width="40" /></a>
- <a href="https://medium.com/@henriquewfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@henriquewfranco" height="30" width="40" /></a>
- </p>
-</div> 
-
-
-
-
-![](https://komarev.com/ghpvc/?username=rddamasceno)
-
+</p> 
