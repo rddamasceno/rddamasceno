@@ -26,6 +26,7 @@
  <a href="https://aws.amazon.com/pt/what-is/sql/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-internet-icon%2Fsql&psig=AOvVaw1JVFhP4KiGzRbfsOdpN-1e&ust=1703191030520000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDip5fvnoMDFQAAAAAdAAAAABAT" alt="sql" width="40" height="40"/> 
 </a> 
 
-</p> 
 ![](https://komarev.com/ghpvc/?username=rddamasceno)
+</p> 
+
 
