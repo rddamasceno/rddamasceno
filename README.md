@@ -25,7 +25,7 @@
  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/> 
 </a> 
   
-## Stats📈
+<h2 align="left">📉 Minhas Estatísticas:</h2>
 
 <div align="center">
   <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rddamasceno&theme=radical" alt="GitHub Stats Card" />
