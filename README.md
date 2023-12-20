@@ -24,6 +24,18 @@
  <a href="https://www.qlik.com/pt-br/products/qlik-sense" target="_blank" rel="noreferrer"> <img src="https://lh3.googleusercontent.com/f-haadBc_54dfaC4jfLRRNo9RNdVYQp3NxKIFuplYC4KXyxZ0bQEQLrivjkUpwTlGqnNQRukxCqDg6vtPkL5jA=w80-h80" alt="qlik" width="40" height="40"/> 
  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/> 
 </a> 
+  
+## Stats📈
+
+<div align="center">
+  <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rddamasceno&theme=radical" alt="GitHub Stats Card" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rddamasceno&layout=compact&theme=radical" alt="Most Languages" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rddamasceno&theme=radical" alt="GitHub Trophies" />
+  <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rddamasceno&theme=radical&utcOffset=-3" alt="Productive Time" />
+</div>
+
+
+
 
 ![](https://komarev.com/ghpvc/?username=rddamasceno)
 </p> 
