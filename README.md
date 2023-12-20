@@ -1,5 +1,4 @@
 <h1 align="center">Olá! 👋 Prazer, sou o Rodrigo!</h1>
-![](https://komarev.com/ghpvc/?username=rddamasceno)
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
@@ -28,3 +27,5 @@
 </a> 
 
 </p> 
+![](https://komarev.com/ghpvc/?username=rddamasceno)
+
